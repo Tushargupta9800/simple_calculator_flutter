@@ -12,4 +12,4 @@ A simple calculator app using Flutter
 3) Copy the code of main.dart file of this repository to the main.dart file of your project.
 4) That's it run the code and Party 🎉. 
 
-😉
+Don't forget to Star this repository. 😉
